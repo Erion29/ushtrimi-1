@@ -1,0 +1,111 @@
+section {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+aside{
+    float: left;
+    padding-bottom: 700px;
+    padding-right: 20px;
+   
+}
+article{
+    line-height: 0.5;
+}
+
+div {
+    padding-left: 200px;
+  
+}
+
+#title{
+    font-family:Segoe Script;
+    color: rgb(31, 200, 200);
+    font-size: 40px;
+    margin-bottom:0px;
+}
+#first{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: none;
+}
+span{
+   
+   font-style:italic;
+   color: rgb(245, 111, 137);
+
+}
+
+#links {
+    background-color: rgb(10, 177, 177);
+    padding: 20px;
+    color:rgb(16, 35, 236);
+    margin-top:0px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+h1{
+    font-size: 
+   
+}
+a{
+    color: rgb(16, 35, 236);
+}
+#row{
+    padding-left: 3px;
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+#social {
+    padding-right:10px;
+    padding-bottom:  20px;
+    margin-bottom: 0px;
+}
+ul{
+    line-height: 0.8;
+   padding-left: 240px;
+}
+li{
+    font-weight: bold;
+    padding-top: 10px;
+}
+h2{
+    margin-bottom: 0px;
+}
+footer{
+   margin-bottom: 0;
+   background-color: rgb(10, 177, 177);
+}
+#divfooter{
+    display:flex;
+
+   
+   padding-left: 50px;
+   
+}
+#test1{
+    padding-left:50 px;
+}
+#test {
+  padding-left: 200px;;
+}
+
+#test2{
+    padding-left:300px ;
+}
+#field1{
+margin-left: 70px;
+}
+
+#field2{
+    margin-left: 200px;
+}
+#field3{
+    margin-left: 145px;
+}
+
+#buttoni{
+    margin-left: 855px;
+}
